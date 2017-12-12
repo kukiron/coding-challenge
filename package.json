@@ -1,0 +1,17 @@
+{
+  "name": "redmart-skiing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint -- . --ext .js, .jsx",
+    "lint:fix": "eslint --fix . --ext .js, .jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kafil Uddin",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-latest": "^1.0.4"
+  }
+}
