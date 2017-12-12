@@ -4,7 +4,7 @@ This is a coding challenge.
 
 ## Usage
 
-Install [Node.js](http://nodejs.org/). Then from inside the project folder, run the following from command line
+If you have [node.js](http://nodejs.org/) installed then from inside the project folder, run the following from command line
 
 ```javascript
 node index.js
