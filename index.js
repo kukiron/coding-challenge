@@ -1,5 +1,3 @@
-"use strict";
-
 // global variables
 let rows = [],
   slopes = {},
