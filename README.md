@@ -1,4 +1,4 @@
-# Coding Challenge - Skiing in Singapore
+# Coding Challenge
 
 This is a coding challenge.
 
